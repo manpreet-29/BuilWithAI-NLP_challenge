@@ -1,5 +1,4 @@
 # BuildWithAI / NLP_challenge
-This is in respect with the hackathon at Hackmakers were the team has undertaken a NLP challenge.
 
 ![](Images/image.jpg)
 
@@ -15,3 +14,14 @@ There is a lot of going on in the world right now due to the Covid-19 pandemic a
 - To study people's emotion change during COVID-19 period
 - To find the impact of public media on people's emotion during COVID-19 period
 
+## Our data source including:
+
+### Twitter:
+* Tweets on Twitter retrieved with [TwitterScraper API ](https://github.com/taspinar/twitterscraper) (daily data from 05/03/20 to 06/07/20)
+
+### News:
+* #COVID-19 news scraped from [Fox News](https://www.foxnews.com/) (daily data from 01/20 to 04/26)
+
+## Analysis Methods
+
+### Sentiment Analysis
