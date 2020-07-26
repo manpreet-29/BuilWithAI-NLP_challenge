@@ -1,4 +1,4 @@
-# BuildWithAI / NLP_challenge
+# BuildWithAI | NLP_challenge
 
 ![](Images/image.jpg)
 
