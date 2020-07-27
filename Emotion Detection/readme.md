@@ -1,1 +1,1 @@
-# Emotion Detection
+# Emotion Detection of Twitter data
