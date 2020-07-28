@@ -27,4 +27,7 @@ There is a lot of going on in the world right now due to the Covid-19 pandemic a
 ### Sentiment Analysis
 
 * IBM Tone Analyzer: We used [IBM Watson's](https://www.ibm.com/cloud/watson-tone-analyzer) tone analyzer on our news articles to check the tone with which each article is written when it comes to the most popular topics during the COVID-19 era. The IBM's Tone Analyzer is able to do the sentiment anlysis upto 5 different tones of the text data which is more than neutral-positive-negative sentiment analysis. Through this way, we can study the articles tone more specifically. But there is a limitation that we could not apply this to the tweet dataset since it is slow at a rate of max 3 tweet/sec which would have taken ages for more than 1 million tweets.
+* Deep Learning : We created a neural network with LSTM and Stanford Glove embedding on twitter tweets for sentiments ('anger', 'fear', 'joy', 'love', 'sadness', 'surprise). The model's training accuracy was 92% and it took nearly 10 minutes prediction time for tweets on a single day.
+
+
 
